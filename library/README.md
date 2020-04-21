@@ -14,4 +14,4 @@ When i click on a link 'delete' under a book details view i want to be able to d
 
 In the detail view of the book i want to have a form to enter a comment. And all the comments should be displayed. ✅
 
-When i add a new book i want to be able to select an author from a list of all the authors available
+When i add a new book i want to be able to select an author from a list of all the authors available ✅
